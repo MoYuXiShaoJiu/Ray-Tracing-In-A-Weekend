@@ -3,7 +3,7 @@
 
 本文是对学习完 [Ray Tracing In A weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)之后的一个简单总结与分享
 
-同时感谢牛仔学长(Cowboy)对本文提出的宝贵建议。
+同时感谢牛仔学姐(Cowboy)对本文提出的宝贵建议。
 
 ## 废话：
 
